@@ -29,11 +29,11 @@ spring-tx-board-demos/
 │   ├── multi-datasource-demo/    # Example demo: Multi-datasource transactions
 │   ├── user-demo-<name>/         # Contributor-added demo project
 │   │   ├── src/main/java/...  
-│   │   └── pom.xml / build.gradle
+│   │   └── pom.xml
 │   │
 │   └── ... (more user projects)
 │
-└── pom.xml / build.gradle        # Parent build file (manages deps for all demos)
+└── pom.xml        # Parent build file (manages deps for all demos)
 ```
 
 ---
